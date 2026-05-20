@@ -1,3 +1,12 @@
-Simple lcd-monitoring project with Raspberry Pi 5
+# Raspberry Pi LCD System Monitor
 
-![lcd-system-monitor](lcd-project.jpg)
+System monitor using Raspberry Pi 5 and LCD1602 I2C display.
+
+<p align="center">
+  <img src="lcd-project.jpg" width="400">
+</p>
+
+## Features
+- CPU usage
+- CPU temperature
+- Written in C
